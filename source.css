@@ -131,7 +131,7 @@ body {
 }
 
 .layers-OrUESM {
-  margin: calc(var(--app-margin) / 2) var(--app-margin) var(--app-margin) var(--app-margin);
+  margin: calc(var(--app-margin) / 1.1) var(--app-margin) var(--app-margin) var(--app-margin);
   border-radius: var(--app-radius);
   overflow: hidden;
   z-index: 1;
@@ -164,7 +164,7 @@ body {
   background-size: cover;
 }
 .container-2RRFHK .content-3AIQZv {
-  padding: 16px;
+  padding: 8px;
   background-color: var(--popout-color);
   border-radius: var(--popout-radius);
   box-shadow: var(--popout-shadow);
