@@ -20,7 +20,7 @@
 	/* main text color (messages, titles, unread text/indicators) */
 	--primary-text: hsl(255, 100%, 100%);
 	/* secondary text color (channels, descriptions, buttons) */
-	--secondary-text: hsl(255, 100%, 100%);
+	--secondary-text: hsl(225, 30%, 70%);
 	/* muted text color (input box placeholders, muted channels, message times) */
 	--muted-text: hsl(220, 15%, 24%);
 	/* background of muted colored buttons on hover */
