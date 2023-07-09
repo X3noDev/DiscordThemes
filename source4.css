@@ -18,7 +18,7 @@
 	/* header text for headers and certain text */
 	--header-text: hsl(220, 30%, 70%);
 	/* main text color (messages, titles, unread text/indicators) */
-	--primary-text: hsl(255, 100%, 100%);
+	--primary-text: hsl(225, 30%, 70%);
 	/* secondary text color (channels, descriptions, buttons) */
 	--secondary-text: hsl(225, 30%, 70%);
 	/* muted text color (input box placeholders, muted channels, message times) */
